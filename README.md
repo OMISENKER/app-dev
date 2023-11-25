@@ -7,6 +7,7 @@ See [IMDb Ratings](https://www.imdb.com/title/tt0944947/ratings/?ref_=tt_ov_rt)
 - [x] mind-blowing plots! :scream:
 - [x] Amazing character storylines! :sunglasses:
 - [x] Great cinematic scenes! :fire:
-My favourite character from GOT is **Tyrion Lannister** as he has the most interesting lines!
+.
+My *favourite character* from GOT is **Tyrion Lannister** as he has the most interesting lines!
 ---
 end.
